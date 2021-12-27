@@ -1,0 +1,98 @@
+body{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.naw{
+    margin-top: -1px;
+    font-weight: 700;
+    font-size: 25px;
+}
+.nav2{
+    opacity: .7;
+
+}
+.a{
+    color: rgb(226, 28, 28);
+}
+.fons{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/image.png);
+    width: 100%;
+    height: auto;
+    z-index: -2222;
+    
+}
+.mytext{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.mytexts{
+    text-align: center;
+    color: #ffffff;   
+}
+.fons1{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/img.png);
+    width: 100%;
+    height: auto;
+   
+}
+
+.fons2{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/img1.png);
+    width: 100%;
+    height: auto;
+    
+    
+}
+.fons3{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/img2.png);
+    width: 100%;
+    height: auto;
+}
+.fons4{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/img3.png);
+    width: 100%;
+    height: auto;
+}
+.fons5{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/img4.png);
+    width: 100%;
+    height: auto;
+}
+.fons6{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../img/img5.png);
+    width: 100%;
+    height: auto;
+}
+.myt{
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+.icon{
+    font-size: 30px;
+    padding: 0 40px;
+    color: black;
+}
